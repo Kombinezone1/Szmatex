@@ -1,0 +1,44 @@
+* {
+  overflow: hidden;
+  text-decoration: none;
+  
+}
+
+
+.btn {
+  background-color: black;
+  color: white;
+  padding: 0px;  
+  margin: 0px;
+  position: absolute;
+  z-index:  1;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+}
+
+img {
+  height: 100vh;
+ 
+}
+
+h5 {
+  font-weight: 500;
+  font-size: 3rem;
+}
+
+p {
+  font-size: 2rem;
+ 
+
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
